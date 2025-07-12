@@ -27,8 +27,8 @@
 
 | 🔗 Projeto | 📝 Descrição | 🚀 Tecnologias |
 |------------|--------------|----------------|
+| [Link](https://github.com/dgdatadev/cyclistic-bike-share-analysis) | Análise de dados | Python e Power BI |
 | [Link](https://github.com/dgdatadev/projeto-locadora-carros) | Modelagem de banco de dados | SQL e MySQL |
-| [Em breve] | Em breve | Em breve |
 | [Em breve] | Em breve | Em breve |
 
 ---
