@@ -4,9 +4,12 @@
 
 ---
 
-- 🎓 Estudante de Sistemas de Informação
-- 📊 Desenvolvendo habilidades em Análise e Ciência de Dados, com foco em Python, SQL e R 
-- 🚀 Compartilho aqui meus estudos, experimentos e projetos aplicados com dados 
+## 👨🏻‍🎓 Sobre mim
+
+- 🎓 Bacharel em **Sistemas de Informação**
+- 💼 **Analista de People Analytics** na Petz
+- 📊 Atuação com análise de dados aplicada a RH, indicadores, dashboards e processos
+- 🚀 Interesse em unir **Análise de Dados + Ciência de Dados** para gerar impacto real no negócio
 
 ---
 
